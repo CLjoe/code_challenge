@@ -1,6 +1,6 @@
 ## Usage
 
 ```bash
-npx express open
+npx cypress open
 ```
-Click on test1.spec.js once the express is open.
+Click on test1.spec.js once the cypress is open.
