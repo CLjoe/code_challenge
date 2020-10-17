@@ -1,6 +1,11 @@
 ## Usage
 
+Install all dependencies first by running
 ```bash
-npx cypress open
+npm install
 ```
-Click on test1.spec.js once the cypress is open.
+
+```bash
+npm run test
+```
+Click on test1.spec.js once the express is open.
